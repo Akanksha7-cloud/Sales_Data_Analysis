@@ -19,26 +19,26 @@ The objective of this project is to analyze sales data and identify:
 1. Data Overview
 2. Missing Value Analysis
 3. Highest Selling Product Analysis
-   ![Products](graph1.png)
 4. Highest Selling City Analysis
-   ![cities](graph2.png)
 5. Yearly Sales Trend
-   ![yearlyTrend](sales_trend.png)
 6. Daily Sales Trend
-   ![DailySales](daily_sales.png)
 7. Correlation Analysis
 8. Heatmap Visualization
-   ![Heatmap](heatmap.png)
 9. Relationship Analysis using Scatter Plot
-   ![RelationshipAnalysis](graph3.png)
-
+  
 ## Visualizations
 - Bar Chart for Top Selling Products
+- ![Products](graph1.png)
 - Bar Chart for Top Selling Cities
+-  ![cities](graph2.png)
 - Line Chart for Yearly Trend
+-  ![yearlyTrend](sales_trend.png)
 - Line Chart for Daily Trend
+- ![DailySales](daily_sales.png)
 - Correlation Heatmap
+- ![Heatmap](heatmap.png)
 - Scatter Plot
+- ![RelationshipAnalysis](graph3.png)
 
 ## Key Findings
 - Identified the highest revenue-generating product.
